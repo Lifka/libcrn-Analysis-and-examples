@@ -4,8 +4,8 @@
 * Miguel Medina Ballesteros - http://maximetinu.com
 
 ## NOTES
-Project for Data and Document Mining - Università degli Studi di Firenze (UniFI)
-Language: Italian.
+Project for Data and Document Mining - Università degli Studi di Firenze (UniFI)<br /> 
+Language: Italian.<br /> 
 Library: https://github.com/Liris-Pleiad/libcrn
 
 ## LICENSE
